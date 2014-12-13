@@ -1,4 +1,0 @@
-stylish-calculator
-==================
-
-rawr
